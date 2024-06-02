@@ -8,7 +8,9 @@
 <br/>
 <sup>&#12299; For resume or a customized solution, please `mail` khochawongwat.kongpana@gmail.com</sup>
 <br/>
-
+<sup>&#12299; Based in Thailand</sup>
+<br/>
+<br/>
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
