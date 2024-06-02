@@ -6,7 +6,7 @@
 <br/>
 <sup>&#12299; I also build crawlers at [Apify](https://apify.com/)</sup>
 <br/>
-<sup>&#12299; For resume or a customized solution, please `mail` khochawongwat.kongpana@gmail.com</sup>
+<sup>&#12299; For resume or customized solutions, please `mail` khochawongwat.kongpana@gmail.com</sup>
 <br/>
 <sup>&#12299; Based in Thailand</sup>
 <br/>
