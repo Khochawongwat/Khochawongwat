@@ -1,7 +1,7 @@
 ###  Hi, I'm Tawan👋
 
 #### I create and automate data solutions from scraping data to building ML pipelines.
-<br/>
+
 <sup>&#12299; Focuses on `Computer Vision`, `Neuroscience` and occasionally build `Statistical Models`</sup>
 <br/>
 <sup>&#12299; I also build crawlers at [Apify](https://apify.com/)</sup>
@@ -10,7 +10,7 @@
 <br/>
 <sup>&#12299; Based in Thailand</sup>
 <br/>
-<br/>
+
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=3776AB&style=flat-square&link=)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=007ACC&style=flat-square&link=)
