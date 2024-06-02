@@ -16,4 +16,4 @@
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![selenium](https://img.shields.io/static/v1?logo=selenium&label=&message=selenium&color=36465D&logoColor=48e1a1&style=flat-square&link=)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=postman&color=36465D&logoColor=GVWG3&style=flat-square&link=)
-![docker](https://img.shields.io/static/v1?logo=postman&label=&message=postman&color=36465D&logoColor=2FACED&style=flat-square&link=)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=2FACED&style=flat-square&link=)
