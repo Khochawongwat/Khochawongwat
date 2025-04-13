@@ -4,8 +4,6 @@
 
 <sup>&#12299; Focuses on `Computer Vision`, `Neuroscience` and occasionally build `Statistical Models`</sup>
 <br/>
-<sup>&#12299; I also build crawlers at [Apify](https://apify.com/)</sup>
-<br/>
 <sup>&#12299; For resume or customized solutions, please `mail` khochawongwat.kongpana@gmail.com</sup>
 <br/>
 <sup>&#12299; Based in Thailand</sup>
